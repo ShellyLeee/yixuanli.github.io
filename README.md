@@ -1,5 +1,7 @@
 # Jekyll 项目运行指南
 
+注意：如果真的要显示个人主页：需要改名repository name 为 github user name.
+
 最推荐的方式：所有改动都在本地完成 → commit → push，这样本地和线上永远同步。
 
 参考网站：https://www.taniarascia.com/make-a-static-website-with-jekyll/
